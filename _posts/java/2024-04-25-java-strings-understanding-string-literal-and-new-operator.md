@@ -2,7 +2,7 @@
 layout: post
 title: 'Java Strings: Understanding string literal and new operator'
 date: 2024-04-25 09:02:44 -0500
-categories: jekyll update
+categories: posts java
 tags: Java,string,stringpool
 ---
 

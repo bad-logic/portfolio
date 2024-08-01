@@ -2,7 +2,7 @@
 layout: post
 title: 'Custom Memory Pool: Creating memory pool for custom class'
 date: 2024-04-25 12:12:12 -0500
-categories: jekyll update
+categories: posts java
 tags: Java,stringpoolconstant,custommemorypool#hashmap
 ---
 
