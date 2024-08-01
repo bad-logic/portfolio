@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Java’s Pass by Value with Heap and Stack Frames Visualization'
 date: 2024-04-24 21:02:44 -0500
-categories: jekyll update
+categories: posts java
 tags: Java,PassByValue,ReferenceOfObjectsByValue
 cover_image: /assets/images/understanding_pass_by_value_with_heap_stack_frames/heap_stack_visualization_jbi4qsvnpuqlkw8lss0j.avif
 ---
