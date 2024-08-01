@@ -22,7 +22,7 @@ title: Portfolio
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Website
-baseurl: '/portfolio'
+baseurl: '/portfolio/'
 url: 'https://bad-logic.github.io'
 # baseurl: '/' # the subpath of your site, e.g. /blog
 # url: 'http://bhattarairoshan.com.np' # the base hostname & protocol for your site, e.g. http://example.com
